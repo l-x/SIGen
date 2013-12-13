@@ -11,7 +11,7 @@
 
 namespace Lx\SIGen;
 
-require_once __DIR__.'/../../src/Lx/SIGen.php';
+require_once __DIR__.'/../../src/SIGen.php';
 
 class SIGenTest extends \PHPUnit_Framework_TestCase {
 

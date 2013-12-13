@@ -12,7 +12,7 @@ namespace Lx\SIGen;
 use Lx\SIGen;
 use Lx\SIGen\Exception;
 
-require_once __DIR__.'/../../../../src/Lx/SIGen.php';
+require_once __DIR__.'/../../../src/SIGen.php';
 
 class InterfaceBuilderProxy extends InterfaceBuilder {
 

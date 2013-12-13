@@ -12,7 +12,7 @@
 namespace Lx\SIGen\Proxy;
 use Lx\SIGen;
 
-require_once __DIR__.'/../../../../../src/Lx/SIGen.php';
+require_once __DIR__.'/../../../../src/SIGen.php';
 
 class SimpleProxyProxy extends SimpleProxy {
 
