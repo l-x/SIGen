@@ -9,10 +9,11 @@
  */
 
 namespace Lx\SIGen;
+
 use Lx\SIGen;
 use Lx\SIGen\Exception;
 
-require_once __DIR__.'/../../../src/SIGen.php';
+require_once __DIR__.'/../src/autoload.php';
 
 class InterfaceBuilderProxy extends InterfaceBuilder {
 

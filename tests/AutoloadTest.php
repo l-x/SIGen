@@ -11,9 +11,9 @@
 
 namespace Lx\SIGen;
 
-require_once __DIR__.'/../../src/SIGen.php';
+require_once __DIR__.'/../src/autoload.php';
 
-class SIGenTest extends \PHPUnit_Framework_TestCase {
+class AutoloadTest extends \PHPUnit_Framework_TestCase {
 
 	public function classNameProvider() {
 		return array(
