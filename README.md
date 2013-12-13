@@ -69,3 +69,6 @@ on the fly:
 $proxy_object will contain the method 'delete' only, if the expression `@expose ##<valid php expression>##` will return
 true. Also the docblock's short description will change to a less generic one.
 
+----
+
+[![Build Status](https://travis-ci.org/l-x/Fna.png?branch=master)](https://travis-ci.org/l-x/Fna)
