@@ -1,0 +1,21 @@
+{
+    "name": "lx/sigen",
+    "type": "library",
+    "description": "Service Interface Generator",
+    "keywords": ["meta programming", "class", "generator"],
+    "homepage": "https://boolshit.de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Wühr",
+            "email": "lx@boolshit.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
